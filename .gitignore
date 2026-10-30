@@ -1,0 +1,7 @@
+data/
+artifacts/
+__pycache__/
+*.pyc
+.venv/
+.kaggle/
+kaggle.json
